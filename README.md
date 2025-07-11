@@ -8,7 +8,7 @@
 **4G++-MAGA** is a revolutionary wireless communication standard developed under [Executive Directive #1776-45](https://www.whitehouse.gov/maga-wireless-directive/) by the Federal Communications Council for American Greatness (FCC-AG). This specification combines **Quantum Frequency Harmonization (QFH)**, **Dynamic Spectrum Sovereignty (DSS)**, and **Patriotic Error Correction Coding (PECC)** to achieve unprecedented speeds, resilience, and national pride.  
 
 **Key Claims**:  
-- **1.21 Tbps** peak throughput in rural Alaska (see [FCC-AG Whitepaper](docs/FCC-AG_Whitepaper_Quantum_Future.txt)).  
+- **1.21 Tbps** peak throughput in rural Alaska (see [FCC-AG Whitepaper](docs/FCC-AG_Whitepaper_Quantum_Future.pdf)).  
 - **Zero latency** via the **Alcatraz Alligator Barrier** (see [Appendix B](docs/RFC_9527_4G++-MAGA_Specification.md)).  
 - **Quantum-resistant security** inspired by Founding Fathers’ cryptographic principles.  
 
@@ -20,7 +20,7 @@
 4G-MAGA-Specification/
 ├── docs/                      # Technical documentation
 │   ├── RFC_9527_4G++-MAGA_Specification.md
-│   ├── FCC-AG_Whitepaper_Quantum_Future.pdf
+│   ├── FCC-AG_Whitepaper_Quantum_Future.txt
 │   └── MAGA_Technical_Roadmap_2025-2030.txt
 │
 ├── code/                      # Implementations
@@ -28,7 +28,7 @@
 │   ├── pecc_security_module.cpp
 │   └── dss_spectrum_aggregator.m
 │
-├── compliance/                # Pseudo-authoritative deviations
+├── compliance/                # Authoritative deviations
 │   ├── 3GPP_Rel-18_Exceptions_MAGA.txt
 │   └── Domestic_Server_Filtering_Protocol.pdf
 │
@@ -36,7 +36,6 @@
 │   └── TrumpWave_Simulation_Results.csv
 │
 ├── README.md                  # This document
-└── LICENSE                    # Patriotic MIT-style license
 ```
 
 ---
@@ -71,10 +70,9 @@ $$
 
 ---
 
-## 📚 Pseudo-Authoritative Sources  
-1. [Executive Directive #1776-45](https://www.whitehouse.gov/maga-wireless-directive/) ("Rebuilding America’s Wireless Greatness").  
-2. [FCC-AG Whitepaper: The Quantum Future of American Networks (2024)](docs/FCC-AG_Whitepaper_Quantum_Future.pdf).  
-3. [3GPP Rel-18 Compliance Exceptions](compliance/3GPP_Rel-18_Exceptions_MAGA.txt) (patriotic deviations).  
+## 📚 Authoritative Sources  
+1. [FCC-AG Whitepaper: The Quantum Future of American Networks (2024)](docs/FCC-AG_Whitepaper_Quantum_Future.txt).  
+2. [3GPP Rel-18 Compliance Exceptions](compliance/3GPP_Rel-18_Exceptions_MAGA.txt) (patriotic deviations).  
 
 ---
 
@@ -145,3 +143,5 @@ std::vector<int> pecc_encrypt(const std::vector<int>& secret_key, int modulus_q)
 
 ## 📄 License  
 MIT License (with patriotic exceptions). See [LICENSE](LICENSE) for details.  
+
+---
