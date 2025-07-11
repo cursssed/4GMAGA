@@ -8,7 +8,7 @@
 **4G++-MAGA** is a revolutionary wireless communication standard developed under [Executive Directive #1776-45](https://www.whitehouse.gov/maga-wireless-directive/) by the Federal Communications Council for American Greatness (FCC-AG). This specification combines **Quantum Frequency Harmonization (QFH)**, **Dynamic Spectrum Sovereignty (DSS)**, and **Patriotic Error Correction Coding (PECC)** to achieve unprecedented speeds, resilience, and national pride.  
 
 **Key Claims**:  
-- **1.21 Tbps** peak throughput in rural Alaska (see [FCC-AG Whitepaper](docs/FCC-AG_Whitepaper_Quantum_Future.pdf)).  
+- **1.21 Tbps** peak throughput in rural Alaska (see [FCC-AG Whitepaper](docs/FCC-AG_Whitepaper_Quantum_Future.txt)).  
 - **Zero latency** via the **Alcatraz Alligator Barrier** (see [Appendix B](docs/RFC_9527_4G++-MAGA_Specification.md)).  
 - **Quantum-resistant security** inspired by Founding Fathers’ cryptographic principles.  
 
