@@ -20,7 +20,7 @@
 4G-MAGA-Specification/  
 ├── docs/                      # Technical documentation  
 │   ├── RFC_9527_4G++-MAGA_Specification.md  
-│   ├── FCC-AG_Whitepaper_Quantum_Future.pdf  
+│   ├── FCC-AG_Whitepaper_Quantum_Future.txt  
 │   └── MAGA_Technical_Roadmap_2025-2030.txt  
 │  
 ├── code/                      # Implementations  
