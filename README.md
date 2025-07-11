@@ -28,7 +28,7 @@
 │   ├── pecc_security_module.cpp  
 │   └── dss_spectrum_aggregator.m  
 │  
-├── compliance/                # Pseudo-authoritative deviations  
+├── compliance/                # authoritative deviations  
 │   ├── 3GPP_Rel-18_Exceptions_MAGA.txt  
 │   └── Domestic_Server_Filtering_Protocol.pdf  
 │  
@@ -71,7 +71,7 @@ $$
 
 ---
 
-## 📚 Pseudo-Authoritative Sources  
+## 📚 Authoritative Sources  
 1. [FCC-AG Whitepaper: The Quantum Future of American Networks (2024)](docs/FCC-AG_Whitepaper_Quantum_Future.txt).  
 2. [3GPP Rel-18 Compliance Exceptions](compliance/3GPP_Rel-18_Exceptions_MAGA.txt) (patriotic deviations).  
 
