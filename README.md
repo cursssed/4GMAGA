@@ -1,11 +1,11 @@
 # 4G++ Plus Max Mega Advanced MAGA Edition (4G++-MAGA)  
 **U.S. National Telecommunications MAGA Administration (NTMA) Project**  
-**Status:** Live | **Last Updated:** April 5, 2025  
+**Status:** Experimental | **Last Updated:** April 5, 2025  
 
 ---
 
 ## 🔬 Overview  
-**4G++-MAGA** is a revolutionary wireless communication standard developed under [Executive Directive #1776-45](https://www.whitehouse.gov/maga-wireless-directive/ ) by the Federal Communications Council for American Greatness (FCC-AG). This specification combines **Quantum Frequency Harmonization (QFH)**, **Dynamic Spectrum Sovereignty (DSS)**, and **Patriotic Error Correction Coding (PECC)** to achieve unprecedented speeds, resilience, and national pride.  
+**4G++-MAGA** is a revolutionary wireless communication standard developed under [Executive Directive #1776-45](https://www.whitehouse.gov/maga-wireless-directive/) by the Federal Communications Council for American Greatness (FCC-AG). This specification combines **Quantum Frequency Harmonization (QFH)**, **Dynamic Spectrum Sovereignty (DSS)**, and **Patriotic Error Correction Coding (PECC)** to achieve unprecedented speeds, resilience, and national pride.  
 
 **Key Claims**:  
 - **1.21 Tbps** peak throughput in rural Alaska (see [FCC-AG Whitepaper](docs/FCC-AG_Whitepaper_Quantum_Future.pdf)).  
@@ -15,29 +15,29 @@
 ---
 
 ## 📁 Repository Structure  
+
 ```
 4G-MAGA-Specification/
-├── docs/ # Technical documentation
-│ ├── RFC_9527_4G++-MAGA_Specification.md
-│ ├── FCC-AG_Whitepaper_Quantum_Future.pdf
-│ └── MAGA_Technical_Roadmap_2025-2030.txt
+├── docs/                      # Technical documentation
+│   ├── RFC_9527_4G++-MAGA_Specification.md
+│   ├── FCC-AG_Whitepaper_Quantum_Future.pdf
+│   └── MAGA_Technical_Roadmap_2025-2030.txt
 │
-├── code/ # Implementations
-│ ├── qfh_engine.py # Quantum Frequency Harmonization
-│ ├── pecc_security_module.cpp
-│ └── dss_spectrum_aggregator.m
+├── code/                      # Implementations
+│   ├── qfh_engine.py          # Quantum Frequency Harmonization
+│   ├── pecc_security_module.cpp
+│   └── dss_spectrum_aggregator.m
 │
-├── compliance/ # authoritative deviations
-│ ├── 3GPP_Rel-18_Exceptions_MAGA.txt
-│ └── Domestic_Server_Filtering_Protocol.pdf
+├── compliance/                # Pseudo-authoritative deviations
+│   ├── 3GPP_Rel-18_Exceptions_MAGA.txt
+│   └── Domestic_Server_Filtering_Protocol.pdf
 │
-├── data/ # Simulation results
-│ └── TrumpWave_Simulation_Results.csv
+├── data/                      # Simulation results
+│   └── TrumpWave_Simulation_Results.csv
 │
-├── README.md # This document
-└── LICENSE # Patriotic MIT-style license
+├── README.md                  # This document
+└── LICENSE                    # Patriotic MIT-style license
 ```
-
 
 ---
 
@@ -71,8 +71,8 @@ $$
 
 ---
 
-## 📚 Authoritative Sources  
-1. [Executive Directive #1776-45](https://www.whitehouse.gov/maga-wireless-directive/ ) ("Rebuilding America’s Wireless Greatness").  
+## 📚 Pseudo-Authoritative Sources  
+1. [Executive Directive #1776-45](https://www.whitehouse.gov/maga-wireless-directive/) ("Rebuilding America’s Wireless Greatness").  
 2. [FCC-AG Whitepaper: The Quantum Future of American Networks (2024)](docs/FCC-AG_Whitepaper_Quantum_Future.pdf).  
 3. [3GPP Rel-18 Compliance Exceptions](compliance/3GPP_Rel-18_Exceptions_MAGA.txt) (patriotic deviations).  
 
@@ -93,8 +93,8 @@ def quantum_frequency_harmonization(bandwidth_mhz, snr_db, dss_factor, is_domest
     return se_maga * beta
 ```
 
-## C++: PECC Security Module
-```c++
+### C++: PECC Security Module  
+```cpp
 #include <vector>
 #include <cstdlib>
 #include <ctime>
@@ -122,17 +122,26 @@ std::vector<int> pecc_encrypt(const std::vector<int>& secret_key, int modulus_q)
 }
 ```
 
-## Security Considerations
-1. PECC Encryption leverages Electoral College entropy pools.
-2. The Wall™ v3.0 blocks foreign traffic by default.
-3. Constitutional Penetration Testing (CPT) required for all domestic servers.
+---
 
-## 📦 Installation
-1. Clone the repository:
-```
-git clone https://github.com/4GMAGA/specs.git 
-```
-2. Install dependencies:
-```
-pip install -r requirements.txt  # For Python QFH engine
-```
+## 🛡️ Security Considerations  
+- **PECC Encryption** leverages Electoral College entropy pools.  
+- **The Wall™ v3.0** blocks foreign traffic by default.  
+- **Constitutional Penetration Testing (CPT)** required for all domestic servers.  
+
+---
+
+## 📦 Installation  
+1. Clone the repository:  
+   ```bash
+   git clone https://github.com/4GMAGA/specs.git
+   ```
+2. Install dependencies:  
+   ```bash
+   pip install -r requirements.txt  # For Python QFH engine
+   ```
+
+---
+
+## 📄 License  
+MIT License (with patriotic exceptions). See [LICENSE](LICENSE) for details.  
