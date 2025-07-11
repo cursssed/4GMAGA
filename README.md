@@ -20,7 +20,7 @@
 4G-MAGA-Specification/
 ├── docs/                      # Technical documentation
 │   ├── RFC_9527_4G++-MAGA_Specification.md
-│   ├── FCC-AG_Whitepaper_Quantum_Future.txt
+│   ├── FCC-AG_Whitepaper_Quantum_Future.pdf
 │   └── MAGA_Technical_Roadmap_2025-2030.txt
 │
 ├── code/                      # Implementations
@@ -28,7 +28,7 @@
 │   ├── pecc_security_module.cpp
 │   └── dss_spectrum_aggregator.m
 │
-├── compliance/                # Authoritative deviations
+├── compliance/                # -authoritative deviations
 │   ├── 3GPP_Rel-18_Exceptions_MAGA.txt
 │   └── Domestic_Server_Filtering_Protocol.pdf
 │
@@ -36,6 +36,7 @@
 │   └── TrumpWave_Simulation_Results.csv
 │
 ├── README.md                  # This document
+└── LICENSE                    # Patriotic MIT-style license
 ```
 
 ---
